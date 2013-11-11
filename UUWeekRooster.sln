@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsirisClient", "OsirisClient\OsirisClient.csproj", "{24634F7F-ADE7-480E-9485-BD710A0C5973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{00FDBBBF-43ED-41B4-93D5-8927A5AD11E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FDBBBF-43ED-41B4-93D5-8927A5AD11E2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{00FDBBBF-43ED-41B4-93D5-8927A5AD11E2}.Debug|x86.Build.0 = Debug|Any CPU
+		{00FDBBBF-43ED-41B4-93D5-8927A5AD11E2}.Release|x86.ActiveCfg = Release|Any CPU
+		{00FDBBBF-43ED-41B4-93D5-8927A5AD11E2}.Release|x86.Build.0 = Release|Any CPU
+		{24634F7F-ADE7-480E-9485-BD710A0C5973}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24634F7F-ADE7-480E-9485-BD710A0C5973}.Debug|x86.Build.0 = Debug|Any CPU
+		{24634F7F-ADE7-480E-9485-BD710A0C5973}.Release|x86.ActiveCfg = Release|Any CPU
+		{24634F7F-ADE7-480E-9485-BD710A0C5973}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WebApp\WebApp.csproj
+	EndGlobalSection
+EndGlobal

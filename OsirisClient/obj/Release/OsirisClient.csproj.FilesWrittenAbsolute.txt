@@ -1,0 +1,6 @@
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/bin/Release/OsirisClient.dll.mdb
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/bin/Release/OsirisClient.dll
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/obj/Release/OsirisClient.dll
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/obj/Release/OsirisClient.dll.mdb
+/Users/yoricksijsling/Dev/UUWeekRooster/OsirisClient/bin/Release/HtmlAgilityPack.dll
