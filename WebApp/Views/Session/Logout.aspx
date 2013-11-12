@@ -5,7 +5,7 @@
 	<title></title>
 </head>
 <body>
-	Uitloggen...
+	Bezig met uitloggen...
 	<script type="text/javascript">
 		if (window.localStorage) {
 			localStorage.removeItem("cookie");

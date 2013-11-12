@@ -17,6 +17,8 @@
 	<p>LET OP: Deze site is niet verbonden aan de universiteit. Dit is een eigen initiatief, en je moet voor jezelf bepalen of je mij je inloggegevens toevertrouwd. Geeft nooit zonder nadenken je inloggegevens aan derden.</p> 
 	<p><a href="https://github.com/yoricksijsling/uurooster">Open source</a></p>
 	
+	<div id="loading">Bezig met inloggen...</div>
+	
 	<script type="text/javascript">
 		if (window.localStorage) {
 			var cookie = localStorage.getItem("cookie");
@@ -24,6 +26,7 @@
 				localStorage.removeItem("cookie");
 				if (document.cookie != cookie) {
 					document.cookie = cookie;
+					document.getElementById("loading").style.display="block";
 					window.location.reload();
 				}
 			}
